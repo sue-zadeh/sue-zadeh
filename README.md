@@ -10,7 +10,7 @@ You can view my portfolio here:
 https://sue-portfolio-projects.up.railway.app/
 
 ### 💻 Freelance Web Development
-I create websites for small businesses, charities, and organisations:  
+I create modern, responsive websites for businesses, charities, and organisations across New Zealand.
 https://freelance-dev-sue.up.railway.app/
 
 ### 🛠 Tech Stack
