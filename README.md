@@ -1,16 +1,16 @@
 
-## Hi, I'm Sue 👋
+### Hi, I'm Sue 👋
 
-I am a Full-Stack Developer and Test Automation Engineer based in New Zealand.
+## I am a Full-Stack Developer and Test Automation Engineer based in New Zealand.
 
 I build responsive websites, admin dashboards, SaaS-style portals, and business systems using React, TypeScript, Node.js, Python, MySQL, PostgreSQL, AWS, and Azure.
 
 ### 🌱 Portfolio
-You can view my portfolio here:  
+## You can view my portfolio here:  
 https://sue-portfolio-projects.up.railway.app/
 
 ### 💻 Freelance Web Development
-I create modern, responsive websites for businesses, charities, and organisations across New Zealand.
+## I create modern, responsive websites for businesses, charities, and organisations across New Zealand.
 https://freelance-dev-sue.up.railway.app/
 
 ### 🛠 Tech Stack
