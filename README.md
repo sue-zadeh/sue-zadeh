@@ -22,6 +22,6 @@ React | TypeScript | JavaScript | Node.js | Python | Flask | Angular | MySQL | P
 - Member portals
 - Role-based access systems
 - Contact forms and database-connected websites
-- Test automation and API testing
+- QA & Test automation and API testing
 
 ### 🙏 Thank you for visiting my profile.
