@@ -3,18 +3,18 @@
 
 ## I am a Full-Stack Developer and Test Automation Engineer based in New Zealand.
 
-I build responsive websites, admin dashboards, SaaS-style portals, and business systems using React, TypeScript, Node.js, Python, MySQL, PostgreSQL, AWS, and Azure.
-
-### 🌱 Portfolio
-## You can view my portfolio here:  
-https://sue-portfolio-projects.up.railway.app/
+I build responsive websites, admin dashboards, SaaS-style portals, and business systems for real companies in NZ, using React, TypeScript, Node.js, Python, MySQL, PostgreSQL, AWS, and Azure.
 
 ### 💻 Freelance Web Development
 ## I create modern, responsive websites for businesses, charities, and organisations across New Zealand.
-https://freelance-dev-sue.up.railway.app/
+https://suewebstudio.com/ 
+
+### 🌱 Portfolio
+## You can view my portfolio here:  
+https://sue-portfolio-projects.up.railway.app/ 
 
 ### 🛠 Tech Stack
-React | TypeScript | JavaScript | Node.js | Python | Flask | MySQL | PostgreSQL | AWS | Azure | Playwright | Postman
+React | TypeScript | JavaScript | Node.js | Python | Flask | Angular | MySQL | PostgreSQL | AWS | Azure | Playwright | Postman
 
 ### 🚀 What I work on
 - Business websites
