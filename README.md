@@ -14,7 +14,7 @@ https://suewebstudio.com/
 https://sue-portfolio-projects.up.railway.app/ 
 
 ### 🛠 Tech Stack
-### React | TypeScript | JavaScript | Node.js | Python | Flask | Angular | MySQL | PostgreSQL | AWS | Azure | Playwright | Postman | Docker | CI/CD
+### React | TypeScript | JavaScript | Node.js | Python | Flask | Angular | ASP.Net Core | MySQL | PostgreSQL | AWS | Azure | Playwright | Postman | Docker | CI/CD
 
 ### 🚀 What I work on
 - Business websites
